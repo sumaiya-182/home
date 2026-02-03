@@ -30,9 +30,7 @@ window.addEventListener('scroll', () => {
 const typingText = document.querySelector('.typing-text');
 const texts = [
     "Undergraduate at Rajshahi University",
-    "UI/UX Designer",
-    "Frontend Developer",
-    "Computer Science Student"
+    "UI/UX Designer"    
 ];
 let textIndex = 0;
 let charIndex = 0;
